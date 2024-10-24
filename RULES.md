@@ -242,3 +242,9 @@ An alternative mode can be played where both players decide not to use relics. I
 * 6 Standard Events
 * 12 Card tokens (4 Attack, 4 Shield, 4 Special)
 
+## Abilities
+
+Characters may have named abilities which are described below:
+
+* **Taunt**: When an adjacent enemy attaacks the target of that attack must be a unit with **Taunt**
+

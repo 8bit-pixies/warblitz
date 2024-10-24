@@ -22,7 +22,7 @@ Having this easily representable on a chessboard also means that it is easy to i
 
 K - commander (King)
 
-R - sniper (Rook)
+R - ranger (Rook)
 N - knight (Knight)
 B - bishop (Bishop)
 
