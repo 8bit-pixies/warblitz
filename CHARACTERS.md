@@ -35,7 +35,7 @@ Elite, Cost 5, HP 6, STR 2, RNG
 ### Archer
 Common, Cost 2, HP 5, STR 1, RNG
 
-* For you attack, you may discard any card or token from play to gain +1 STR for each discard
+* Before you attack, you may discard any card or token from play to gain +1 STR for each discard
 
 ### Red Mage
 Common, Cost 0, HP 2, STR 2, MEL
